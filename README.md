@@ -2,6 +2,8 @@
 
 These Matlab functions are created on Matlab 2021a and are the implementations of the results in [1]
 
+Examples of how to use these functions can be found in the two main files.
+
 To run these functions, the ‘PowerSet’ function in [2] is also needed.
 
 
