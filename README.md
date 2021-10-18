@@ -2,9 +2,9 @@
 
 These Matlab functions are created on Matlab 2021a and may not work for older versions of Matlab. 
 
-They are the implementations of the results in [1]. Examples of how to use these functions can be found in the two main files.
+They are the implementations of the results in [1], including the graphical analysis in Proposition 2 and the graphical synthesis in Case 1 of Table II. 
 
-To run these functions, the ‘PowerSet’ function in [2] is also needed.
+Examples of how to use these functions can be found in the two main files. To run these functions, the ‘PowerSet’ function in [2] is also needed.
 
 
 [1]  Shengling Shi, Xiaodong Cheng, and Paul M. J. Van den Hof. "Single module identifiability in linear dynamic networks with partial excitation and measurement." arXiv preprint arXiv:2012.11414 (2020).
